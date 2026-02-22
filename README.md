@@ -1,7 +1,7 @@
 ## 👋 안녕하세요 저는 정유담(Yudam Jung)입니다.
-
+<br>
 ### 다뤄본 기술
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white" alt="c++">
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
 <!--
 **yudamjung/yudamjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
