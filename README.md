@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 저는 정유담(Yudam Jung)입니다.
+## 👋 안녕하세요, 저는 정유담(Yudam Jung)입니다.
 <!--
 **yudamjung/yudamjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
