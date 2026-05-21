@@ -1,15 +1,58 @@
-## 👋 안녕하세요 저는 정유담(Yudam Jung)입니다.
+<div align="center">
 
-### 🌱 Learning
-> 기초를 다지고 있거나 향후 프로젝트 도입을 위해 심도 있게 학습 중인 기술입니다.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=AAAAAA&center=true&width=500&lines=Software+Engineering+Student;Building+with+curiosity+%26+intention" alt="Typing SVG" />
+</a>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<h1>Yudam Jung</h1>
+
+<p>
+  <a href="mailto:udamee1025@gmail.com">
+    <img src="https://img.shields.io/badge/udamee1025%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+</div>
+
+
+## About
+
+2nd-year Software Engineering student at Seoul Women's University.  
+Focused on learning by writing, breaking, and truly understanding.
+
+
+## Tech
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Platforms & Frameworks**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+---
+
+## Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yudamjung&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&title_color=555555&text_color=888888&icon_color=888888" height="160" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudamjung&layout=compact&theme=graywhite&hide_border=true&title_color=555555&text_color=888888" height="160" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yudamjung&theme=default&hide_border=true&stroke=eeeeee&ring=aaaaaa&fire=aaaaaa&currStreakLabel=888888&sideLabels=888888&currStreakNum=555555&sideNums=555555&dates=aaaaaa" alt="GitHub Streak" />
+</div>
 
 <!--
 **yudamjung/yudamjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
