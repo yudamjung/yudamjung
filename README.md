@@ -40,20 +40,6 @@ Focused on learning by writing, breaking, and truly understanding.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
----
-
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yudamjung&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&title_color=555555&text_color=888888&icon_color=888888" height="160" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudamjung&layout=compact&theme=graywhite&hide_border=true&title_color=555555&text_color=888888" height="160" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yudamjung&theme=default&hide_border=true&stroke=eeeeee&ring=aaaaaa&fire=aaaaaa&currStreakLabel=888888&sideLabels=888888&currStreakNum=555555&sideNums=555555&dates=aaaaaa" alt="GitHub Streak" />
-</div>
-
 <!--
 **yudamjung/yudamjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
