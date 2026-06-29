@@ -21,7 +21,7 @@
 Focused on learning by writing, breaking, and truly understanding.
 
 
-## Tech
+## Learning
 
 **Languages**
 
